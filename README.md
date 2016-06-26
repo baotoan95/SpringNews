@@ -22,6 +22,6 @@
 - [Ngô Bảo Toàn]
 - [Trần Châu Phi]
 
-[//]:# Reference link
+[//]:#
 [Ngô Bảo Toàn]: <https://www.facebook.com/baotoan95>
 [Trần Châu Phi]: <https://www.facebook.com/chauphi90>
