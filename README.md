@@ -1,5 +1,5 @@
 ## Giới thiệu
-Đây là đồ án môn Chuyên đề web và đồ án công nghệ công nghệ phần mềm. Website với thể loại báo chí.
+Đây là đồ án môn Chuyên đề web và đồ án công nghệ công nghệ phần mềm. Website thuộc thể loại tin tức.
 
 ## Chức năng
 - Lấy nội dung từ RSS
